@@ -63,7 +63,7 @@ function App() {
       <div className="container">
         <div className="left">
           <div className="title">
-            <img src={"https://soospitz.github.io/weather-app/svg/weather.svg"} style={{ height: 55 }} />
+            <img src={"https://soospitz.github.io/weather/svg/weather.svg"} style={{ height: 55 }} />
             <h1>Weather</h1>
           </div>
           <div className="search">
